@@ -5,8 +5,11 @@
 - webpage: https://qiang-zou.github.io/
 - Latest Release: June 6, 2025
 
+<img align="left" src="pipeline.png"> 
+<br />
+
 ## !important
-The source code is for the method presented in [1,2]
+The source code is for the method presented in [1,2]. It promotes a new boundary evaluation method for micro-geometries in the form of lattices. The basic idea is to replace the nodes within a lattice with approximate, smooth, and simpler shapes using meta-heuristic optimization methods. Its primary advantages lie in the robustness in evaluating lattice B-rep models, mitigated stress concentration, and improved manufacturability.
 
 It can be compiled with CUDA 11.8 + MSVC 14.0, and run on the operating system Windows 10.
 
