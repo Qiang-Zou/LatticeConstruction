@@ -24,7 +24,7 @@ LatticeConstruction is GNU licensed. It is developed by Sifan Chen, supervised u
 
 - The source code, as well as the testing data, can be downloaded from the page: 
   
-  webpage: https://github.com/Qiang-Zou/XXXX/
+  webpage: https://github.com/Qiang-Zou/LatticeConstruction
 
 
 3.Installing & Compiling (Windows+MSVC14.0+CUDA11.8+TBB)
